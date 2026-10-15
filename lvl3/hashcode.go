@@ -9,7 +9,7 @@ func HashCode(dec string) string {
 		if hash < 34 {
 			hash += 33
 		}
-		res =res1+string(rune(hash))
+		res =res+string(rune(hash))
 	}
 	return res
 }
