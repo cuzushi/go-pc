@@ -1,5 +1,5 @@
 package main
-
+//lvl3/hashcode.go
 import "fmt"
 
 func HashCode(dec string) string {
