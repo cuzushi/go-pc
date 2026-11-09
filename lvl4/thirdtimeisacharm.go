@@ -9,7 +9,7 @@ func ThirdTimeIsACharm(str string) string {
 	}
 	return res + "\n"
 }
-func main() {
+func main2() {
 	fmt.Print(ThirdTimeIsACharm("123456789"))
 	fmt.Print(ThirdTimeIsACharm(""))
 	fmt.Print(ThirdTimeIsACharm("a b c d e f"))

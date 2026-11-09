@@ -23,7 +23,7 @@ func WeAreUnique(str1, str2 string) int {
 	return count
 }
 
-func main() {
+func main11() {
 	fmt.Println(WeAreUnique("foo", "boo"))
 	fmt.Println(WeAreUnique("", ""))
 	fmt.Println(WeAreUnique("abc", "def"))

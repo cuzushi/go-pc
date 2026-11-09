@@ -17,7 +17,7 @@ func FindPrevPrime(nb int) int {
 	}
 	return 0
 }
-func main() {
+func main1() {
 	fmt.Println(FindPrevPrime(5))
 	fmt.Println(FindPrevPrime(4))
 }

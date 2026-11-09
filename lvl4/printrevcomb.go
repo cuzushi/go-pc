@@ -2,7 +2,7 @@ package main
 
 import "github.com/01-edu/z01"
 
-func main() {
+func mainqq() {
 	for i := 9; i > 1; i-- {
 		for j := i - 1; j > 0; j-- {
 			for k := j - 1; k >= 0; k-- {
